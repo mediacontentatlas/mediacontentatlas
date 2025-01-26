@@ -6,13 +6,13 @@ As digital media use continues to evolve and influence various aspects of life, 
 ![image](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mcapipeline.png)
 
 In this repo, you will find the code files for the following parts of MCA: 
-##MCA Pipeline
+## MCA Pipeline
 - Embedding Generation 
 - Description Generation
 - Clustering and Topic Modeling
 - Visualization
 - Image Retrieval
-##MCA Evaluation
+## MCA Evaluation
 - Expert Survey 1 
 - Expert Survey 2
 - Expert Survey 3
