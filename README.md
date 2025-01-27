@@ -7,12 +7,12 @@ As digital media use continues to evolve and influence various aspects of life, 
 
 In this repo, you will find the code files for the following parts of MCA: 
 ## MCA Pipeline
-- [CLIP Embedding Generation](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clip_embedding_generation.py) 
-- [Description Generation](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_generation.py)
-- [Description Embedding Generation](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_embedding_generation.py)
-- [Clustering and Topic Modeling](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clustering_topicmodeling_example.py)
-- [Interactive Visualization](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_create_interactive_visualizations.py)
-- [Image Retrieval](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_image_retrieval_app.py)
+- [Generate Screenshot Image Embeddings with CLIP](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clip_embedding_generation.py) 
+- [Generate Screenshot Descriptions with Llava-OneVision](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_generation.py)
+- [Generate Description Embeddings using GTE-large](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_embedding_generation.py)
+- [Conduct Clustering and Topic Modeling with BERTopic and Llama2](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clustering_topicmodeling_example.py)
+- [Create Interactive Visualizations with DataMapPlot](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_create_interactive_visualizations.py)
+- [Retrieve Relevant Images with CLIP and LlaVa-OneVision+GTE-Large](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_image_retrieval_app.py)
 ## MCA Evaluation
 - [Expert Survey 1](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey1.py) 
 - [Expert Survey 2](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey2.py) 
