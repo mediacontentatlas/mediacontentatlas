@@ -7,11 +7,12 @@ As digital media use continues to evolve and influence various aspects of life, 
 
 In this repo, you will find the code files for the following parts of MCA: 
 ## MCA Pipeline
-- Embedding Generation 
-- Description Generation
-- Clustering and Topic Modeling
-- Visualization
-- Image Retrieval
+- [CLIP Embedding Generation](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clip_embedding_generation.py) 
+- [Description Generation](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_generation.py)
+- [Description Embedding Generation](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_embedding_generation.py)
+- [Clustering and Topic Modeling](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clustering_topicmodeling_example.py)
+- [Interactive Visualization](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_create_interactive_visualizations.py)
+- [Image Retrieval](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_image_retrieval_app.py)
 ## MCA Evaluation
 - [Expert Survey 1](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey1.py) 
 - [Expert Survey 2](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey2.py) 
