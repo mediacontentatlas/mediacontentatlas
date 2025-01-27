@@ -13,7 +13,7 @@ In this repo, you will find the code files for the following parts of MCA:
 - Visualization
 - Image Retrieval
 ## MCA Evaluation
-- ![Expert Survey 1](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey1.py) 
-- ![Expert Survey 2](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey2.py) 
-- ![Expert Survey 3](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey3.py)  
+- [Expert Survey 1](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey1.py) 
+- [Expert Survey 2](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey2.py) 
+- [Expert Survey 3](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey3.py)  
 
