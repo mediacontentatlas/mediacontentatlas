@@ -19,6 +19,6 @@ In this repo, you will find the code files for the following parts of MCA:
 - [Expert Survey 3](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey3.py)  
 
 ## Notes
--This repo will be updated regularly for better reproducibility, meanwhile open issues for any questions.
--Working on creating a synthetic dataset to showcase the whole pipeline.
+- This repo will be updated regularly for better reproducibility, meanwhile open issues for any questions.
+- Working on creating a synthetic dataset to showcase the whole pipeline.
 
