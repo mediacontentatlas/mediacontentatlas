@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cerit"
+  given-names: "Merve"
+- family-names: "Zelikman"
+  given-names: "Eric"
+- family-names: "Cho"
+  given-names: "Mu-Jung"
+- family-names: "Robinson"
+  given-names: "Thomas N."
+- family-names: "Reeves"
+  given-names: "Byron"
+- family-names: "Ram"
+  given-names: "Nilam"
+- family-names: "Haber"
+  given-names: "Nick"
+title: "Media Content Atlas"
+date-released: 2025-1-24
+url: "https://github.com/mediacontentatlas/mediacontentatlas"
