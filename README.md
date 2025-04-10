@@ -35,7 +35,7 @@ The pipeline is fully modular, with standalone scripts and notebooks for each st
 | 📝 Captioning | [`anonymized_description_generation.py`](mca_pipeline/anonymized_description_generation.py) | Generate descriptions using LLaVA-OneVision |
 | 🔠 Embedding | [`anonymized_description_embedding_generation.py`](mca_pipeline/anonymized_description_embedding_generation.py) | Generate sentence embeddings using GTE-Large |
 | 🧵 Clustering | [`anonymized_clustering_topicmodeling_example.py`](mca_pipeline/anonymized_clustering_topicmodeling_example.py) | Cluster and label screenshots using BERTopic + LLaMA2 |
-| 📊 Visualization | [`anonymized_create_interactive_visualizations.ipynb`](mca_pipeline/anonymized_create_interactive_visualizations.ipynb) | Create an interactive dashboard using DeckGL |
+| 📊 Visualization | [`anonymized_create_interactive_visualizations.ipynb`](mca_pipeline/anonymized_create_interactive_visualizations.ipynb) | Create an interactive dashboard using DataMapPlot |
 | 🔍 Retrieval | [`anonymized_image_retrieval_app.py`](mca_pipeline/anonymized_image_retrieval_app.py) | Retrieve screenshots using visual or textual similarity |
 
 ### 🧪 `expert_surveys/` – Evaluation Instruments
