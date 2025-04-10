@@ -11,7 +11,7 @@ In this repo, you will find the code files for the following parts of MCA:
 - [Generate Screenshot Descriptions with Llava-OneVision](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_generation.py)
 - [Generate Description Embeddings using GTE-large](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_description_embedding_generation.py)
 - [Conduct Clustering and Topic Modeling with BERTopic and Llama2](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_clustering_topicmodeling_example.py)
-- [Create Interactive Visualizations with DataMapPlot](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_create_interactive_visualizations.ipynb)
+- [Create Interactive Visualizations with DataMapPlot-and Customize it!](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_create_interactive_visualizations.ipynb)
 - [Retrieve Relevant Images with CLIP and LlaVa-OneVision+GTE-Large](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/mca_pipeline/anonymized_image_retrieval_app.py)
 ## MCA Evaluation
 - [Expert Survey 1](https://github.com/mediacontentatlas/mediacontentatlas/blob/main/expert_surveys/anonymized_survey1.py) 
