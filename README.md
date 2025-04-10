@@ -5,9 +5,8 @@
 Media Content Atlas (MCA) is a first-of-its-kind pipeline that enables large-scale, AI-driven analysis of digital media experiences using multimodal LLMs. It combines recent advances in machine learning and visualization to support both open-ended and hypothesis-driven research into screen content and behavior.
 
 🔗 **Website & Demo**: [mediacontentatlas.github.io](https://mediacontentatlas.github.io)  
+🎥 **Quick Video Explanation**: [Watch on YouTube](https://www.youtube.com/watch?v=UjFk0YzEzqs)  
 📎 **Citation**: See [Citation Section](#-citation)
-[![Watch short video on YouTube](https://img.youtube.com/vi/UjFk0YzEzqs/hqdefault.jpg)](https://youtu.be/UjFk0YzEzqs)
-
 
 ## 🔍 Overview
 
