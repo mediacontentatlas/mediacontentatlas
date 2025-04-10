@@ -86,4 +86,3 @@ If you use MCA in your research, please cite the CHI 2025 paper:
   pages = {19},
   doi = {10.1145/3706599.3720055}
 }
----
