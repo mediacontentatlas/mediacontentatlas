@@ -54,7 +54,7 @@ We’d love to hear from you! Feel free to:
 
 - 💬 [Open an issue](https://github.com/mediacontentatlas/mediacontentatlas/issues) for bugs, suggestions, or feature requests  
 - 📬 Email us: [mervecer@stanford.edu](mailto:mervecer@stanford.edu)  
-- 🌐 Explore the lite demo: [www.mediacontentatlas.org](https://www.mediacontentatlas.org)
+- 🌐 Explore the lite demo: [mediacontentatlas.github.io](https://mediacontentatlas.github.io)
 
 
 ## 🛠️ Roadmap
@@ -63,7 +63,7 @@ Here’s what’s next for MCA, let us know if you'd like collaborate:
 
 - 🔁 **Reproducibility updates** for easier setup  
 - 🧩 **Customization utilities** (label editing, filters, user tagging)
--  📈 **Longitudinal visualizations** to explore media patterns over time
+- 📈 **Longitudinal visualizations** to explore media patterns over time
 Stay tuned! ⭐ Star this repo to keep up with updates.
 
 
