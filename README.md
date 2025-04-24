@@ -21,15 +21,13 @@ Expert reviewers rated MCA's clustering results **96% relevant** and AI-generate
 
 ![MCA Pipeline](./assets/mcapipeline.png)
 
-
-
 ## 🗂️ Code Structure
 
 The pipeline is fully modular, with standalone scripts and notebooks for each stage:
 
-### [Quick Start on Google Colab with Free T4](https://colab.research.google.com/drive/1IuiBkc4SBORbbVejKPkFn7Qw2KHHxywv?usp=sharing)
+### 1. ⏩ Check out [Quick Start Tutorial on Google Colab with Free T4.](https://colab.research.google.com/drive/1IuiBkc4SBORbbVejKPkFn7Qw2KHHxywv?usp=sharing)
 
-### 📦 `mca_pipeline/` – Core Components
+### 2. 📦 `mca_pipeline/` – Core Components
 
 | Stage | Script | Description |
 |-------|--------|-------------|
@@ -40,7 +38,7 @@ The pipeline is fully modular, with standalone scripts and notebooks for each st
 | 📊 Visualization | [`anonymized_create_interactive_visualizations.ipynb`](mca_pipeline/anonymized_create_interactive_visualizations.ipynb) | Create an interactive dashboard using DataMapPlot |
 | 🔍 Retrieval | [`anonymized_image_retrieval_app.py`](mca_pipeline/anonymized_image_retrieval_app.py) | Retrieve screenshots using visual or textual similarity |
 
-### 🧪 `expert_surveys/` – Evaluation Instruments
+### 3. 🧪 `expert_surveys/` – Evaluation Instruments
 
 | File | Description |
 |------|-------------|
