@@ -27,6 +27,8 @@ Expert reviewers rated MCA's clustering results **96% relevant** and AI-generate
 
 The pipeline is fully modular, with standalone scripts and notebooks for each stage:
 
+### [Quick Start on Google Colab with Free T4](https://colab.research.google.com/drive/1IuiBkc4SBORbbVejKPkFn7Qw2KHHxywv?usp=sharing)
+
 ### 📦 `mca_pipeline/` – Core Components
 
 | Stage | Script | Description |
