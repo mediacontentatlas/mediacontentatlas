@@ -7,10 +7,11 @@ Media Content Atlas (MCA) is a first-of-its-kind pipeline that enables large-sca
 🔗 **Website & Demo**: [mediacontentatlas.github.io](https://mediacontentatlas.github.io)  
 🎥 **Quick Video Explanation**: [Watch on YouTube](https://www.youtube.com/watch?v=UjFk0YzEzqs)  
 📄 **Paper:** [Preprint](https://www.arxiv.org/abs/2504.16323)  
+⏩ **See Quickstart Tutorial** [here](https://colab.research.google.com/drive/1IuiBkc4SBORbbVejKPkFn7Qw2KHHxywv?usp=sharing)
+
 📎 **Citation**: Cerit, M., Zelikman, E., Cho, M., Robinson, T. N., Reeves, B., Ram, N., & Haber, N. (2025). Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs.
 In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). ACM.
 https://doi.org/10.1145/3706599.3720055  
-⏩See Quickstart Tutorial [here](https://colab.research.google.com/drive/1IuiBkc4SBORbbVejKPkFn7Qw2KHHxywv?usp=sharing)
 
 
 ## 🔍 Overview
